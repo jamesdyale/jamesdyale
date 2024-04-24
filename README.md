@@ -1,30 +1,28 @@
 ## Hi there I'm James 👋🏾 
 
-Just having fun with code and here is my playground. Most things are private (because they're still in the works) but feel free to check out my public projects
-- 📫 Have anything to ask? <a href="https://github.com/engineeringwithjames/engineeringwithjames/issues">Ask Here</a>
+Welcome to my playground where I sometimes build in public!
+
+- 🔭 I’m currently ```working``` on **some secret project**
+- 🌱 I’m currently ```learning``` way too much stuff 🥲
+- 👯 I’m looking to collaborate on ```proper``` **variable naming**
+- 🤔 I’m looking for help with ```potential``` blog topics to write on
+- 💬 Ask me about ```code```
+- ⚡ Fun fact: I still delude myself I can play ```pro-basketball``` 🤣
+
+### Get in Touch
+Have any questions or just want to chat? Feel free to reach out to me:
+
+- 📫 [Ask Here](https://github.com/jamesdyale/jamesdyale/issues)
+
+### Connect with Me
+If you want to collab or have some cool project let's connect on socials:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/james-odeyale/" target="_blank">
       <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
-   <a href="https://www.youtube.com/@engineeringwithjames" target="_blank">
+   <a href="https://www.youtube.com/@jamesdyale" target="_blank">
       <img src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube"/>
   </a>
 </p>
-
-
-<!--
-**jamesodeyale/jamesodeyale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Happly 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
