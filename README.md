@@ -2,7 +2,7 @@
 
 Welcome to my playground where I sometimes build in public!
 
-- 🔭 I’m currently ```working``` on **some secret project**
+- 🔭 I’m currently ```working``` on **a secret project**
 - 🌱 I’m currently ```learning``` way too much stuff 🥲
 - 👯 I’m looking to collaborate on ```proper``` **variable naming**
 - 🤔 I’m looking for help with ```potential``` blog topics to write on
