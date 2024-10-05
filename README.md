@@ -21,8 +21,4 @@ If you want to collab or have some cool project let's connect on socials:
   <a href="https://www.linkedin.com/in/james-odeyale/" target="_blank">
       <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-
-   <a href="https://www.youtube.com/@jamesdyale" target="_blank">
-      <img src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube"/>
-  </a>
 </p>
