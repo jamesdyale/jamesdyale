@@ -3,8 +3,7 @@
 Welcome to my playground where I sometimes build in public!
 
 - 🔭 I’m currently ```working``` on **a secret project**
-- 🌱 I’m currently ```learning``` way too much stuff 🥲
-- 👯 I’m looking to collaborate on ```proper``` **variable naming**
+- 🌱 I’m currently ```learning``` too take myself less seriously 🥲
 - 🤔 I’m looking for help with ```potential``` blog topics to write on
 - 💬 Ask me about ```code```
 - ⚡ Fun fact: I still delude myself I can play ```pro-basketball``` 🤣
