@@ -39,22 +39,29 @@
               </p>
               <div class="bio_socials">
                 <!-- Social Links -->
+                <a href="mailto:me@jamesdyale.com"
+                  ><i class="fa fa-at" aria-hidden="true"></i
+                ></a>
                 <a
                   href="https://www.linkedin.com/in/james-odeyale/"
                   target="_blank"
-                  ><i class="fa fa-linkedin-square" aria-hidden="true"></i
+                  ><i class="fa fa-linkedin" aria-hidden="true"></i
                 ></a>
                 <a href="https://github.com/jamesdyale" target="_blank"
-                  ><i class="fa fa-github-square" aria-hidden="true"></i
+                  ><i class="fa fa-github" aria-hidden="true"></i
                 ></a>
-                <a href="https://www.youtube.com/@jamesdyale" target="_blank"
-                  ><i class="fa fa-youtube-square" aria-hidden="true"></i>
-                </a>
               </div>
             </div>
           </div>
         </div>
       </header>
+
+      <!-- Footer -->
+      <footer>
+        <div class="container">
+          <p>&copy; <span id="currentYear"></span> James Odeyale</p>
+        </div>
+      </footer>
     </div>
 
     <!-- Main Body Section -->
@@ -67,5 +74,11 @@
 
     <!-- Footer Section -->
     <!-- <script type="module" src="/src/main.js"></script> -->
+
+    <!-- JavaScript to update current year -->
+    <script>
+      const currentYear = new Date().getFullYear();
+      document.getElementById("currentYear").textContent = currentYear;
+    </script>
   </body>
 </html>

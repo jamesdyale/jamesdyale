@@ -128,14 +128,27 @@ body {
   margin-left: 0.25rem;
 }
 
+.bio_socials {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* background-color: red; */
+  width: 5rem;
+}
+
 .bio_socials a {
-  color: #fff;
+  color: #a3a3a3;
   text-decoration: none;
   margin-right: 0.5rem;
 }
 
+.bio_socials a .fa-at {
+  font-size: 18px !important;
+  font-weight: bold;
+}
+
 .bio_socials a .fa {
-  font-size: 24px;
+  font-size: 20px;
 }
 
 .bio_socials a:last-child {
