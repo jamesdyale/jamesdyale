@@ -75,7 +75,7 @@ body {
 }
 
 .bio_name_and_picture .bio_top .fa-moon-o {
-  font-size: 30px;
+  font-size: 20px;
   background-color: #fff;
   color: black;
   padding: 5px 8px;
@@ -197,6 +197,13 @@ main section:nth-of-type(2) {
   border-left-width: 0.5px;
   border-right-width: 0.5px;
   border-bottom-width: 0.5px;
+  cursor: grab;
+}
+
+.card.dragging {
+  opacity: 0.5;
+  border: 2px dashed #aaa;
+  cursor: grabbing;
 }
 
 .card__header {
